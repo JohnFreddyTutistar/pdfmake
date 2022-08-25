@@ -130,7 +130,7 @@ export class AppCupon implements OnInit{
                         {text: 'N° documento:\n'}, {text: '_______________________\n'},
                         {text: 'Servicio:\n'}, {text: '_______________________\n\n'},
                         {text: 'pts: '},
-                        {text: '200\n', color: '#86BEDA', fontSize: 30, italics: true},
+                        {text: '200\n', color: '#86BEDA', fontSize: 31, italics: true},
                         {
                           border: [false],
                           text: [
